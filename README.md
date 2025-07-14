@@ -17,7 +17,6 @@ A clean and scalable RESTful API built in Go for managing workouts. This project
 - **PostgreSQL**
 - **Docker / Docker Compose**
 - **Chi Router**
-- **Gorilla Sessions**
 - **bcrypt**
 
 ## 🛠️ Getting Started
